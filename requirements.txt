@@ -1,0 +1,17 @@
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+pooch
+rasterio
+xarray
+geopandas
+descartes
+cartopy
+statsmodels
+fair
+h5netcdf
+netCDF4
+streamlit
+
