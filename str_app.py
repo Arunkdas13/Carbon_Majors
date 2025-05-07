@@ -2,7 +2,7 @@ import streamlit as st
 
 # --- Article Info and Hyperlinked References at the Top ---
 st.markdown("""
-<h1 style='font-size: 30px;'>
+<h1 style='font-size: 50px;'>
 Carbon Major Streamlit App, Version 0.1
 </h1>
 <p style='font-size: 20px;'>
