@@ -3,8 +3,11 @@ import streamlit as st
 # --- Article Info and Hyperlinked References at the Top ---
 st.markdown("""
 <h1 style='font-size: 50px;'>
-Carbon Major Streamlit App, Version 0.1
+Carbon Major Streamlit App
 </h1>
+<h3 style='font-size: 20=px;'>
+(Version 0.1)
+</h3> 
 <p style='font-size: 20px;'>
 Replication for <a href='https://www.nature.com/articles/s41586-025-08751-3' target='_blank'><em>Carbon majors and the scientific case for climate liability</em></a><br>
 Authors: <a href='https://www.nature.com/articles/s41586-025-08751-3' target='_blank'>Christopher W. Callahan</a> & 
