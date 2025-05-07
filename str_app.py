@@ -2,17 +2,16 @@ import streamlit as st
 
 # --- Article Info and Hyperlinked References at the Top ---
 st.markdown("""
-**Carbon Major Streamlit App, Version 0.1**  
-Replication for *[Carbon majors and the scientific case for climate liability](https://www.nature.com/articles/s41586-025-08751-3)*  
-Authors: [Christopher W. Callahan](https://www.nature.com/articles/s41586-025-08751-3) & [Justin S. Mankin](https://www.nature.com/articles/s41586-025-08751-3)  
-Reference Dataset & Code Repository: *[IEEE DataPort](https://ieee-dataport.org/open-access/replication-carbon-majors-and-scientific-case-climate-liability)*
-""")
-
-# --- Metadata ---
-st.markdown("""
-### FaIR Warming Simulations  
-**Authors:** Christopher W. Callahan & Justin S. Mankin
-""")
+<h1 style='font-size: 30px;'>
+Carbon Major Streamlit App, Version 0.1
+</h1>
+<p style='font-size: 20px;'>
+Replication for <a href='https://www.nature.com/articles/s41586-025-08751-3' target='_blank'><em>Carbon majors and the scientific case for climate liability</em></a><br>
+Authors: <a href='https://www.nature.com/articles/s41586-025-08751-3' target='_blank'>Christopher W. Callahan</a> & 
+<a href='https://www.nature.com/articles/s41586-025-08751-3' target='_blank'>Justin S. Mankin</a><br>
+Reference Dataset & Code Repository: <a href='https://ieee-dataport.org/open-access/replication-carbon-majors-and-scientific-case-climate-liability' target='_blank'>IEEE DataPort</a>
+</p>
+""", unsafe_allow_html=True)
 
 # --- Main Title ---
 st.title("FaIR Warming Simulations")
